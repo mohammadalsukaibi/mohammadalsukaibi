@@ -18,9 +18,9 @@
 
 ### React & Redux projects
 
-- [mohammadalsukaibi/choose-one-app](https://github.com/mohammadalsukaibi/choose-one-app) - users are able to ask and answer questions, see which questions they have/haven’t answered.
+- [mohammadalsukaibi/choose-one-app](https://github.com/mohammadalsukaibi/choose-one-app) - users are able to ask and answer questions, and see all the questions and asnwers.
 - [mohammadalsukaibi/react-movie-app](https://github.com/mohammadalsukaibi/react-movie-app) - shows all the latest movies and you can search for any movie and get details about it.
-- [mohammadalsukaibi/Feedback-app](https://github.com/mohammadalsukaibi/Feedback-app) - An app allows users to add, update and delete feedback. It uses a mock REST api.
+- [mohammadalsukaibi/Feedback-app](https://github.com/mohammadalsukaibi/Feedback-app) - An app that allows users to add, update and delete feedback. It uses a mock REST api.
 - [mohammadalsukaibi/great-reads](https://github.com/mohammadalsukaibi/great-reads) - A book cataloging app that allows you to place books on one of three shelves.
 
 
