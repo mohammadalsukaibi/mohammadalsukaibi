@@ -32,7 +32,6 @@
 <hr>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadalsukaibi&show_icons=true&locale=en" alt="mohammadalsukaibi" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
